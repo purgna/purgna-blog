@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://purgna.github.io/purgna-blog/posts/my-second-post/</loc>
+    <lastmod>2017-10-16T11:58:47+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://purgna.github.io/purgna-blog/posts/my-first-post/</loc>
     <lastmod>2017-10-15T17:34:16+05:30</lastmod>
   </url>
@@ -14,13 +19,13 @@
   
   <url>
     <loc>https://purgna.github.io/purgna-blog/</loc>
-    <lastmod>2017-10-15T17:34:16+05:30</lastmod>
+    <lastmod>2017-10-16T11:58:47+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://purgna.github.io/purgna-blog/posts/</loc>
-    <lastmod>2017-10-15T17:34:16+05:30</lastmod>
+    <lastmod>2017-10-16T11:58:47+05:30</lastmod>
     <priority>0</priority>
   </url>
   
