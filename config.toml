@@ -1,4 +1,4 @@
-baseURL = "https://purgna.github.io/"
+baseURL = "https://purgna.github.io/purgna-blog/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "ananke"
