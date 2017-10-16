@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>https://purgna.github.io/</link>
+    <link>https://purgna.github.io/purgna-blog/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 15 Oct 2017 17:34:16 +0530</lastBuildDate>
     
-	<atom:link href="https://purgna.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://purgna.github.io/purgna-blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Post</title>
-      <link>https://purgna.github.io/posts/my-first-post/</link>
+      <link>https://purgna.github.io/purgna-blog/posts/my-first-post/</link>
       <pubDate>Sun, 15 Oct 2017 17:34:16 +0530</pubDate>
       
-      <guid>https://purgna.github.io/posts/my-first-post/</guid>
+      <guid>https://purgna.github.io/purgna-blog/posts/my-first-post/</guid>
       <description></description>
     </item>
     

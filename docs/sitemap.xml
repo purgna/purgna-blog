@@ -3,29 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://purgna.github.io/posts/my-first-post/</loc>
+    <loc>https://purgna.github.io/purgna-blog/posts/my-first-post/</loc>
     <lastmod>2017-10-15T17:34:16+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://purgna.github.io/categories/</loc>
+    <loc>https://purgna.github.io/purgna-blog/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://purgna.github.io/</loc>
-    <lastmod>2017-10-15T17:34:16+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://purgna.github.io/posts/</loc>
+    <loc>https://purgna.github.io/purgna-blog/</loc>
     <lastmod>2017-10-15T17:34:16+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://purgna.github.io/tags/</loc>
+    <loc>https://purgna.github.io/purgna-blog/posts/</loc>
+    <lastmod>2017-10-15T17:34:16+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://purgna.github.io/purgna-blog/tags/</loc>
     <priority>0</priority>
   </url>
   
